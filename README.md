@@ -1,2 +1,1 @@
-# BN-Velitchkova
-Ciclo di Biennio: Gabriela Kassimirova Velitchkova
+# Lezione di giovedì 21 novembre 2019\n\n## Argomenti
