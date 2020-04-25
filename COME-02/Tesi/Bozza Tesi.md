@@ -17,9 +17,11 @@ Abstract
 Il connubio tra lo studio musicale e la passione per l’archeologia, nel corso degli ultimi anni, ha stimolato in me una ricerca mirata al raggiungimento di un maggior grado di libertà nell’atto dell’astrazione durante l’ideazione di un progetto compositivo. Fondamentale per tale percorso è stata la sottoscrizione al Gruppo Archeologico Romano con il quale ho la possibilità di operare come volontaria per la manutenzione e la supervisione del sito circostante la Necropoli della Banditaccia di Cerveteri, avendo dunque la possibilità di un contatto diretto con il territorio e la sua storia. Il lavoro di ricerca svolto in questa tesi, intende analizzare le possibilità e le criticità nell’integrazione dello spazio nel pensiero compositivo, percorrendo lo sviluppo della composizione "Contemplatio, Templum" dalla suggestione alla sua completa realizzazione. Il primo capitolo espone le nozioni storiche che sono alla base dell'ispirazione tematica del brano. Il secondo invece, descrivere il processo compositivo adoperato per la stesura, presentando tutti i criteri di associazione ed interpretazione utilizzati per decodificare in musica le suggestioni che il popolo etrusco ed i suoi luoghi mi hanno trasmesso. Qui, tutte le competenze extra-musicali vengono convogliate alla costruzione concettuale del materiale sonoro, definendo forme e timbri dal carattere ancestrale. Nella composizione “Contemplatio, Templum” lo spettatore si troverá immerso in un luogo astratto, ed i flussi musicali che lo avvolgeranno saranno portatori di significato intrinseco, guidando l'ascolto attraverso la mimesi sonora dei riti di fondazione compiuti dall’aruspice etrusco.
 
 
-### 1. Lo spazio degli etruschi
+1. Lo spazio degli etruschi
+==========================
 
-### 1.1. Il sito archeologico come ispirazione sonoro-compositiva
+1.1. Il sito archeologico come ispirazione sonoro-compositiva
+--------------------------
 
 ### 1.1.1. Come nasce il lavoro
 
@@ -104,10 +106,12 @@ spostandosi in ASI si individuano nuovamente le direzioni cardinali in direzione
 si completa la limitato urbana fissando le ulteriori intersezioni del parallelogramma. Si tracciano quindi gli assi principali della forma urbana: l'asse cardinale N-S, il decumano "equinoziale" O-E e i due decumani "solstiziali" TSE-ASE e TSI-ASI.
 
 
-### 2. Le suggestioni che dagli etruschi portano a “Contemplatio,Templum”
+2. Le suggestioni che dagli etruschi portano a “Contemplatio,Templum”
+==========================
 
+2.1 Associazioni tra suggestioni e musica
+--------------------------
 
-### 2.1 Associazioni tra suggestioni e musica
 ### 2.1.1. Ricerca del carattere ancestrale nel timbro
 ### 2.1.2. Scelta strumentale
 ### 2.1.3. Processo di astrazione strumentale
@@ -125,10 +129,14 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 ### 2.3.2. Consapevolezza della propria posizione d'ascolto per facilitare l'immersione nella narrazione
 
 
-### 3. Partiture
+3. Partiture
+==========================
 
-### 3.1 Legenda
-### 3.2 Partitura spaziale
+3.1 Legenda
+--------------------------
+
+3.2 Partitura spaziale
+--------------------------
 
 ## Sc1
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1.jpg)
@@ -185,7 +193,8 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_4.jpg)
 
 
-### 3.3 Partitura analitica
+3.3 Partitura analitica
+--------------------------
 
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/1.jpg)
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/2.jpg)
