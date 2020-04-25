@@ -131,10 +131,15 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 ### Bibliografia
 
 – [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+
 – [Cingolani S.; Spagn olo R., Acustica musicale e architettonica, UTET Universitá, 2004](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/200-UTET-2004.pdf)
+
 – Cotzía P., Cerveteri. Cittá dalle molte vite, Scipioni, 1990
+
 – Cristofani M., Gli etruschi. Una nuova immagine, Giunti, 1984
+
 – [Donorá L., Semiografia della nuova musica, Zanibon, 1999](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/semiografia-della-nuova-musica-luigi-donora.pdf)
+
 – Gottarelli A., 
   - [Contemplatio. Templum solare e culti di fondazione vol.I, Te.m.p.la, 2013](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/1-Contemplatio.pdf)
   - [Auguraculum, sedes inaugurationis e limitatio rituale della città fondata. Elementi di 
@@ -151,7 +156,9 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
   - [Storia degli strumenti musicali, Arnoldo Mondadori Editore, 1980](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/kupdf.net_curt-sachs-storia-degli-strumenti-musicali-0.pdf)
   
 – [Sciarrino S., Le figure della musica. Da Beethoven a oggi, Ricordi, 1998](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/LE%20FIGURE%20DELLA%20MUSICA.pdf)
+
 – Schneider M., Il significato della musica. Simboli, forme, valori del linguaggio musicale, 
   introduzione di Elémire Zolla, Rusconi 1999
+  
 – [Wallin N.L., Merker B., Brown S., The origins of music, MIT Press, 2001](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/The_origins_of_music_Evidence_theory_and_prospects.pdf)
 
