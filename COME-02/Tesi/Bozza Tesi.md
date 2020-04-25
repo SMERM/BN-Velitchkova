@@ -174,8 +174,10 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 ## Sc4_4
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_4.jpg)
 
+
 ### 3.3 Partitura analitica
 
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/1.jpg)
 
 ### 4. Conclusioni
 
