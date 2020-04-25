@@ -116,8 +116,65 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 
 
 ### 3. Partiture
-### 3.1 Partitura spaziale
-### 3.2 Partitura analitica
+
+### 3.1 Legenda
+### 3.2 Partitura spaziale
+
+## Sc1
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1.jpg)
+
+## Sc1_1
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_1.jpg)
+
+## Sc1_2
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_2.jpg)
+
+## Sc1_3
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_3.jpg)
+
+## Sc1_4
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_4.jpg)
+
+## Sc1_5
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_5.jpg)
+
+## Sc1_6
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc1_6.jpg)
+
+## Sc2
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc2.jpg)
+
+## Sc3
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc3.jpg)
+
+## Sc3_1
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc3_1.jpg)
+
+## Sc3_2
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc3_2.jpg)
+
+## Sc3_3
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc3_3.jpg)
+
+## Sc3_4
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc3_4.jpg)
+
+## Sc4
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4.jpg)
+
+## Sc4_1
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_1.jpg)
+
+## Sc4_2
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_2.jpg)
+
+## Sc4_3
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_3.jpg)
+
+## Sc4_4
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20spaziale/Sc4_4.jpg)
+
+### 3.3 Partitura analitica
 
 
 ### 4. Conclusioni
