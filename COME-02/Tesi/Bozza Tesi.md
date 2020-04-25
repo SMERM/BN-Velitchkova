@@ -1,4 +1,5 @@
-# Contemplatio, Templum
+Contemplatio, Templum
+==========================
 ## Lo spazio come parametro integrato nel pensiero compositivo
 ### Gabriela Krassimirova Velitchkova - 2020
 
