@@ -126,6 +126,7 @@ L'importanza del sacro nella società etrusca è, almeno nella prospettiva delle
 
 
 [2] [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+
 [2]: https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf "Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992"
 
 
