@@ -130,3 +130,28 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 
 ### Bibliografia
 
+– [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+– [Cingolani S.; Spagn olo R., Acustica musicale e architettonica, UTET Universitá, 2004](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/200-UTET-2004.pdf)
+– Cotzía P., Cerveteri. Cittá dalle molte vite, Scipioni, 1990
+– Cristofani M., Gli etruschi. Una nuova immagine, Giunti, 1984
+– [Donorá L., Semiografia della nuova musica, Zanibon, 1999](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/semiografia-della-nuova-musica-luigi-donora.pdf)
+– Gottarelli A., 
+  - [Contemplatio. Templum solare e culti di fondazione vol.I, Te.m.p.la, 2013](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/1-Contemplatio.pdf)
+  - [Auguraculum, sedes inaugurationis e limitatio rituale della città fondata. Elementi di 
+    analogia tra la forma urbana della città etrusca di Marzabotto ed il templum augurale di Bantia, I, in «Ocnus» 11, pp. 135-     149, 2003](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/i%20Auguraculum_sedes_inaugurationis_e_limit.pdf)
+  - [Modello cosmologico, rito di fondazione e sistemi di orientazione rituale. La connessione solare, II, in «Ocnus» 11,           pp.151-170 2003](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/ii%20Modello_cosmologico_rito_di_fondazione_e%20(1).pdf)
+  - [Templum solare e città fondata. La connessione astronomica della forma urbana della città etrusca di Marzabotto, III, in       «Ocnus» 11, pp.151-170 2003]()
+  - [Templum solare e culti di fondazione. Marzabotto, Roma, Este: appunti per una aritmo-geometria del rito, IV, in «Ocnus» 18,      pp. 53-74, 2010](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/iv%20Templum_solare_e_culti_di_fondazione._Ma.pdf)
+
+– [Russo M., Lo spazio come fonte di ispirazione nella musica del secondo novecento, Rivista  italiana di acustica, Vol. 26 n. 2-4/2002](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Lo_spazio_come_fonte_di_ispirazione_nell.pdf)
+
+– Sachs C., 
+  - Le sorgenti della musica. Una preziosa introduzione critica alla tipologia delle 
+    civiltá musicali, Bollati Boringhieri, 2014
+  - [Storia degli strumenti musicali, Arnoldo Mondadori Editore, 1980](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/kupdf.net_curt-sachs-storia-degli-strumenti-musicali-0.pdf)
+  
+– [Sciarrino S., Le figure della musica. Da Beethoven a oggi, Ricordi, 1998](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/LE%20FIGURE%20DELLA%20MUSICA.pdf)
+– Schneider M., Il significato della musica. Simboli, forme, valori del linguaggio musicale, 
+  introduzione di Elémire Zolla, Rusconi 1999
+– [Wallin N.L., Merker B., Brown S., The origins of music, MIT Press, 2001](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/The_origins_of_music_Evidence_theory_and_prospects.pdf)
+
