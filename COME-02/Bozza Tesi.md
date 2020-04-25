@@ -13,11 +13,23 @@ Il connubio tra lo studio musicale e la passione per l’archeologia, nel corso 
 
 ### 1. Lo spazio degli etruschi
 
-
 ### 1.1. Il sito archeologico come ispirazione sonoro-compositiva
+
 ### 1.1.1. Come nasce il lavoro
+
+Nel corso degli ultimi anni, lavori antecedenti a questa tesi, hanno stimolato la continuazione di un percorso volto alla ricerca del carattere ancestrale nella musica. I primi studi miravano al raggiungimento di un traguardo nella qualitá timbrica e nella libertá della forma. Sentendo ora questi elementi acquisiti, si pone come oggetto essenziale per l'aumentazione della fase compositiva l’utilizzo dello spazio. Avere la possibilitá di integrarlo come aspetto performativo nel pensiero compositivo attraverso le tecniche di spazializzazione, ha garantito lo sviluppo di un processo tematico coerente con suggestioni storiche che lo pongono alla base del concetto.
+
 ### 1.1.2. Gli etruschi
+
+Gli Etruschi furono un popolo dell'Italia antica vissuto tra il IX secolo a.C. e il I secolo a.C. in un'area denominata Etruria[1]. La civiltà a cui diedero vita, raggiunse il momento di massimo splendore nel IV secolo a.C.. Caratterizzata da un altissimo livello artistico, la civiltà etrusca diede alla donna un ruolo rilevante all'interno della società e sviluppò pratiche come la divinazione.
+Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà romana, prima di venirne completamente assimilata nel 396 a.C dopo la conquista di Veio da parte dei romani.
+
+[1] [wikipedia.org/wiki/Etruschi]
+
+
 ### 1.1.3. La necropoli etrusca di Cerveteri
+
+Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tanto che ogni gesto quotidiano poteva essere descritto come processo rituale. Questi elementi peculiari sono evidenti nell’architettura della necropoli etrusca della Banditaccia di Cerveteri e le sue zone circostanti. É estremamente immediato notare come ogni strada o monumento sono stati pensati in quell'esatto posto e direzione per un motivo.
 
 
 ### 1.2. Come si orientavano gli etruschi
