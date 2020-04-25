@@ -1,6 +1,9 @@
 Contemplatio, Templum
 ==========================
-## Lo spazio come parametro integrato nel pensiero compositivo
+
+Lo spazio come parametro integrato nel pensiero compositivo
+--------------------------
+
 ### Gabriela Krassimirova Velitchkova - 2020
 
 
@@ -179,6 +182,20 @@ si completa la limitato urbana fissando le ulteriori intersezioni del parallelog
 ### 3.3 Partitura analitica
 
 ![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/1.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/2.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/3.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/4.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/5.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/6.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/7.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/8.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/9.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/10.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/11.jpg)
+![Alt test](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Partitura%20analitica/12.jpg)
+
+
+
 
 ### 4. Conclusioni
 
