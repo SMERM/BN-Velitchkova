@@ -68,6 +68,31 @@ Di seguito viene esposto il procedimento della quadratura del cielo in terra:
 individuato il punto di stazione TSE (Tramonto Solstizio d’Estate), in posizione dominante il pianoro sottostante, si mira il punto di levata del Sole sull'orizzonte alla data prestabilita della fondazione della città. Su questa 
 mira si fissa arbitrariamente il punto ASI (Alba Solstizio d’Inverno).
 
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/2.png)
+
+### Fase 2: 
+fissato il punto ASI, si individua sulla diagonale il nuovo punto di stazione DE (decussis), quale punto intermedio tra TSE e ASI.
+
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/3.png)
+
+### Fase 3: 
+facendo stazione in DE, si individuano le direzioni dell'asse meridiano N-S e di quello equinoziale E-O, attraverso l'osservazione del movimento dell'ombra dello gnomone, prima e dopo il mezzogiorno.
+
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/4.png)
+
+### Fase 4: 
+rimanendo in DE, si attende la sera e si individua la direzione della seconda diagonale mirando il punto di tramonto del sole sull'orizzonte.
+
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/5.png)
+
+### Fase 5: 
+spostandosi in ASI si individuano nuovamente le direzioni cardinali in direzione Nord ed Ovest e si fissano i vertici ASE e TSI alle intersezioni con la precedente diagonale.
+
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/6.png)
+
+### Fase 6: 
+si completa la limitato urbana fissando le ulteriori intersezioni del parallelogramma. Si tracciano quindi gli assi principali della forma urbana: l'asse cardinale N-S, il decumano "equinoziale" O-E e i due decumani "solstiziali" TSE-ASE e TSI-ASI.
+
 
 ### 2. Le suggestioni che dagli etruschi portano a “Contemplatio,Templum”
 
