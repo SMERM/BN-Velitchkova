@@ -24,7 +24,7 @@ Nel corso degli ultimi anni, lavori antecedenti a questa tesi, hanno stimolato l
 Gli Etruschi furono un popolo dell'Italia antica vissuto tra il IX secolo a.C. e il I secolo a.C. in un'area denominata Etruria[1]. La civiltà a cui diedero vita, raggiunse il momento di massimo splendore nel IV secolo a.C.. Caratterizzata da un altissimo livello artistico, la civiltà etrusca diede alla donna un ruolo rilevante all'interno della società e sviluppò pratiche come la divinazione.
 Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà romana, prima di venirne completamente assimilata nel 396 a.C dopo la conquista di Veio da parte dei romani.
 
-[1] [wikipedia.org/wiki/Etruschi]
+[1] [wikipedia.org/wiki/Etruschi](https://en.wikipedia.org/wiki/Etruschi)
 
 
 ### 1.1.3. La necropoli etrusca di Cerveteri
@@ -33,9 +33,40 @@ Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tan
 
 
 ### 1.2. Come si orientavano gli etruschi
+
 ### 1.2.1. L'etrusca disciplina
+
+L'importanza del sacro nella società etrusca è, almeno nella prospettiva delle fonti letterarie greche e latine, assoluta. Livio sottolineava la religiosità di quel popolo, che «eccelleva nell'arte di coltivare le pratiche cultuali» (Liv., v, I, 6). I Romani stessi, d'altronde, si ritenevano eredi di molti dei rituali da esso praticati, comprese operazioni decisive, come la fondazione delle città [1].«Poiché tutto riferiscono al dio, gli Etruschi ritengono non che le cose abbiano un senso in quanto avvengono, ma che avvengano per portare un significato». Questo giudizio assai noto di Seneca (N.Q. II, 32,2) illustra bene l'atteggiamento dell'uomo etrusco nei confronti del mondo: un mondo puntualmente e per ogni dove segnato da cratofanie e ierofanie, che debbono essere accuratamente investigate, classificate, interpretate ed espiate. Queste operazioni venivano svolte dall’aruspice. La classica divisione operata da Cicerone nella letteratura religiosa degli Etruschi prevede come è noto una tripartizione in Libri haruspicini, fulgurales e rituales ai quali l’aruspice faceva riferimento. Queste raccolte trattano «monograficamente» delle tecniche di comunicazione con la divinità tramite la divinazione per le quali gli Etruschi erano particolarmente celebrati: la lettura delle viscere delle vittime, l'interpretazione dei fulmini e il volo degli uccelli.
+
 ### 1.2.2. Modello cosmologico
+
+Gli etruschi dividevano lo “spazio dei segni divini”, cioè il cielo e la terra, in “sedici regioni di influenza”, otto positive e otto negative. Questa suddivisione dello spazio era di enorme importanza per leggere correttamente i segnali del cielo, in special modo la direzione dalla quale provenivano le folgori celesti, evento che opportunamente letto secondo le regole magiche permetteva di capire gli eventi futuri. Molti autori latini (Cicerone, Plinio il Vecchio, Marziano Capella, Servio) ci hanno tramandato il modo in cui gli Etruschi tracciavano le varie regioni del cielo; la trattazione più completa la troviamo nella Naturalis Historia di Plinio:
+“A tale scopo [per determinare la provenienza del fulmine] gli Etruschi divisero il cielo in sedici parti […]. La prima zona è dal settentrione all’alba equinoziale [cioè da nord a est], la seconda sino al mezzogiorno [da est a sud], la terza sino al tramonto equinoziale [cioè da sud a ovest], la quarta occupa il restante spazio fra il tramonto e il settentrione [da ovest a nord]. Hanno poi diviso ciascuna di queste zone in quattro parti, e dissero di sinistra le otto regioni orientali, di destra quelle occidentali. Tra di esse sono particolarmente di malaugurio quelle che fiancheggiano il settentrione da ponente [cioè il quadrante nord-ovest]” (Nat., 2, 143).”
+
+[1] Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992
+
+![Alt text]( "Fig. x - Suddivisione del cielo con assegnazioni alle divinitá.")
+
+È possibile comprendere i motivi di questa suddivisione considerando che tutto ciò è legato al “movimento” del sole, visto come rappresentante verso gli uomini degli dèi celesti quindi messaggero della loro volontà: nel periodo estivo, infatti, cioè nel periodo in cui il sole ha il massimo del calore quindi della forza, questo sorge a nord-est, plaga del cielo per questo considerata dominio della vita quindi favorevolissima; ovvio che il punto dove il sole estivo tramonta (nord-ovest), sia stato considerato infausto e sede degli dèi inferi che ingoiano il sole estivo; stesso discorso per la zona sud-est, considerata parzialmente positiva: lì sorge il sole invernale, un sole che ha parzialmente perso il suo vigore se non la sua “divinità”, per questo più vicino agli uomini; a sud-ovest abbiamo invece la zona dove questo sole invernale tramonta, quindi, per questo, zona sì negativa ma molto meno dell’altra ove tramonta il sole estivo. 
+
+![Alt text]("Fig. x - Figura descritta dai punti di levata e tramonto del sole ai solstizi e agli equinozi alle latitudini medie dell’emisfero Nord.")
+
+L’esigenza di un orientamento cosmico per interpretare le volontá divine, trova il suo apice nei riti di fondazione delle cittá. In una data prestabilita, verrá eseguito dall’aruspice il rito che trasmuterá il templum celeste in templum augurale, attraverso il posizionamento dei cippi, secondo l’ordine prestabilito dal movimento solare. Questo procedimento è esposto nel paragrafo seguente (1.2.3)
+
+![Alt text]("Fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa: A. livello celeste, B. livello terrestre, C. livello infero.")
+
+
 ### 1.2.3. Rito di fondazione
+
+L'azione rituale della fondazione dell'urbe, aveva la funzione di trasferire l'ordine generale del cielo in un luogo particolare, avente al centro l'àugure: ciò accadeva quando il gran tempio del cielo, dopo essere stato concentrato nella forma ideale dello schema (fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa), veniva proiettato per mezzo della forma rituale, nel tratto di terreno antistante l'àugure.
+
+Di seguito viene esposto il procedimento della quadratura del cielo in terra:
+
+![Alt text]("")
+
+### Fase 1: 
+individuato il punto di stazione TSE (Tramonto Solstizio d’Estate), in posizione dominante il pianoro sottostante, si mira il punto di levata del Sole sull'orizzonte alla data prestabilita della fondazione della città. Su questa 
+mira si fissa arbitrariamente il punto ASI (Alba Solstizio d’Inverno).
 
 
 ### 2. Le suggestioni che dagli etruschi portano a “Contemplatio,Templum”
