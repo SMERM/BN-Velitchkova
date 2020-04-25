@@ -30,7 +30,7 @@ Nel corso degli ultimi anni, lavori antecedenti a questa tesi, hanno stimolato l
 Gli Etruschi furono un popolo dell'Italia antica vissuto tra il IX secolo a.C. e il I secolo a.C. in un'area denominata Etruria[1]. La civiltà a cui diedero vita, raggiunse il momento di massimo splendore nel IV secolo a.C.. Caratterizzata da un altissimo livello artistico, la civiltà etrusca diede alla donna un ruolo rilevante all'interno della società e sviluppò pratiche come la divinazione.
 Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà romana, prima di venirne completamente assimilata nel 396 a.C dopo la conquista di Veio da parte dei romani.
 
-[1]: [wikipedia.org/wiki/Etruschi](https://en.wikipedia.org/wiki/Etruschi)
+[1]: https://en.wikipedia.org/wiki/Etruschi "wikipedia.org/wiki/Etruschi"
 
 
 ### 1.1.3. La necropoli etrusca di Cerveteri
