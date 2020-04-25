@@ -45,15 +45,15 @@ Gli etruschi dividevano lo “spazio dei segni divini”, cioè il cielo e la te
 
 [1] Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992
 
-![Alt text]( "Fig. x - Suddivisione del cielo con assegnazioni alle divinitá.")
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/parsanticapostica.gif "Fig. x - Suddivisione del cielo con assegnazioni alle divinitá.")
 
 È possibile comprendere i motivi di questa suddivisione considerando che tutto ciò è legato al “movimento” del sole, visto come rappresentante verso gli uomini degli dèi celesti quindi messaggero della loro volontà: nel periodo estivo, infatti, cioè nel periodo in cui il sole ha il massimo del calore quindi della forza, questo sorge a nord-est, plaga del cielo per questo considerata dominio della vita quindi favorevolissima; ovvio che il punto dove il sole estivo tramonta (nord-ovest), sia stato considerato infausto e sede degli dèi inferi che ingoiano il sole estivo; stesso discorso per la zona sud-est, considerata parzialmente positiva: lì sorge il sole invernale, un sole che ha parzialmente perso il suo vigore se non la sua “divinità”, per questo più vicino agli uomini; a sud-ovest abbiamo invece la zona dove questo sole invernale tramonta, quindi, per questo, zona sì negativa ma molto meno dell’altra ove tramonta il sole estivo. 
 
-![Alt text]("Fig. x - Figura descritta dai punti di levata e tramonto del sole ai solstizi e agli equinozi alle latitudini medie dell’emisfero Nord.")
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/punti%20levata%20tramonto.png "Fig. x - Figura descritta dai punti di levata e tramonto del sole ai solstizi e agli equinozi alle latitudini medie dell’emisfero Nord.")
 
 L’esigenza di un orientamento cosmico per interpretare le volontá divine, trova il suo apice nei riti di fondazione delle cittá. In una data prestabilita, verrá eseguito dall’aruspice il rito che trasmuterá il templum celeste in templum augurale, attraverso il posizionamento dei cippi, secondo l’ordine prestabilito dal movimento solare. Questo procedimento è esposto nel paragrafo seguente (1.2.3)
 
-![Alt text]("Fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa: A. livello celeste, B. livello terrestre, C. livello infero.")
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/TEMPLA.png "Fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa: A. livello celeste, B. livello terrestre, C. livello infero.")
 
 
 ### 1.2.3. Rito di fondazione
@@ -62,7 +62,7 @@ L'azione rituale della fondazione dell'urbe, aveva la funzione di trasferire l'o
 
 Di seguito viene esposto il procedimento della quadratura del cielo in terra:
 
-![Alt text]("")
+![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/1.png)
 
 ### Fase 1: 
 individuato il punto di stazione TSE (Tramonto Solstizio d’Estate), in posizione dominante il pianoro sottostante, si mira il punto di levata del Sole sull'orizzonte alla data prestabilita della fondazione della città. Su questa 
