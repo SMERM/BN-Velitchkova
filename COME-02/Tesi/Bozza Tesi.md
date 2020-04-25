@@ -45,7 +45,10 @@ Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tan
 
 L'importanza del sacro nella società etrusca è, almeno nella prospettiva delle fonti letterarie greche e latine, assoluta. Livio sottolineava la religiosità di quel popolo, che «eccelleva nell'arte di coltivare le pratiche cultuali» (Liv., v, I, 6). I Romani stessi, d'altronde, si ritenevano eredi di molti dei rituali da esso praticati, comprese operazioni decisive, come la fondazione delle città [2].«Poiché tutto riferiscono al dio, gli Etruschi ritengono non che le cose abbiano un senso in quanto avvengono, ma che avvengano per portare un significato». Questo giudizio assai noto di Seneca (N.Q. II, 32,2) illustra bene l'atteggiamento dell'uomo etrusco nei confronti del mondo: un mondo puntualmente e per ogni dove segnato da cratofanie e ierofanie, che debbono essere accuratamente investigate, classificate, interpretate ed espiate. Queste operazioni venivano svolte dall’aruspice. La classica divisione operata da Cicerone nella letteratura religiosa degli Etruschi prevede come è noto una tripartizione in Libri haruspicini, fulgurales e rituales ai quali l’aruspice faceva riferimento. Queste raccolte trattano «monograficamente» delle tecniche di comunicazione con la divinità tramite la divinazione per le quali gli Etruschi erano particolarmente celebrati: la lettura delle viscere delle vittime, l'interpretazione dei fulmini e il volo degli uccelli.
 
-[2]: [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+
+[2] [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+[2]: https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf "Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992"
+
 
 ### 1.2.2. Modello cosmologico
 
