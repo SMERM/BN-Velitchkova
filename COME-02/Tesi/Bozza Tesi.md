@@ -7,10 +7,12 @@ Lo spazio come parametro integrato nel pensiero compositivo
 ### Gabriela Krassimirova Velitchkova - 2020
 
 
-## Indice
+Indice
+==========================
 
 
-### Abstract
+Abstract
+--------------------------
 
 Il connubio tra lo studio musicale e la passione per l’archeologia, nel corso degli ultimi anni, ha stimolato in me una ricerca mirata al raggiungimento di un maggior grado di libertà nell’atto dell’astrazione durante l’ideazione di un progetto compositivo. Fondamentale per tale percorso è stata la sottoscrizione al Gruppo Archeologico Romano con il quale ho la possibilità di operare come volontaria per la manutenzione e la supervisione del sito circostante la Necropoli della Banditaccia di Cerveteri, avendo dunque la possibilità di un contatto diretto con il territorio e la sua storia. Il lavoro di ricerca svolto in questa tesi, intende analizzare le possibilità e le criticità nell’integrazione dello spazio nel pensiero compositivo, percorrendo lo sviluppo della composizione "Contemplatio, Templum" dalla suggestione alla sua completa realizzazione. Il primo capitolo espone le nozioni storiche che sono alla base dell'ispirazione tematica del brano. Il secondo invece, descrivere il processo compositivo adoperato per la stesura, presentando tutti i criteri di associazione ed interpretazione utilizzati per decodificare in musica le suggestioni che il popolo etrusco ed i suoi luoghi mi hanno trasmesso. Qui, tutte le competenze extra-musicali vengono convogliate alla costruzione concettuale del materiale sonoro, definendo forme e timbri dal carattere ancestrale. Nella composizione “Contemplatio, Templum” lo spettatore si troverá immerso in un luogo astratto, ed i flussi musicali che lo avvolgeranno saranno portatori di significato intrinseco, guidando l'ascolto attraverso la mimesi sonora dei riti di fondazione compiuti dall’aruspice etrusco.
 
@@ -28,7 +30,7 @@ Nel corso degli ultimi anni, lavori antecedenti a questa tesi, hanno stimolato l
 Gli Etruschi furono un popolo dell'Italia antica vissuto tra il IX secolo a.C. e il I secolo a.C. in un'area denominata Etruria[1]. La civiltà a cui diedero vita, raggiunse il momento di massimo splendore nel IV secolo a.C.. Caratterizzata da un altissimo livello artistico, la civiltà etrusca diede alla donna un ruolo rilevante all'interno della società e sviluppò pratiche come la divinazione.
 Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà romana, prima di venirne completamente assimilata nel 396 a.C dopo la conquista di Veio da parte dei romani.
 
-[1] [wikipedia.org/wiki/Etruschi](https://en.wikipedia.org/wiki/Etruschi)
+[1]: [wikipedia.org/wiki/Etruschi](https://en.wikipedia.org/wiki/Etruschi)
 
 
 ### 1.1.3. La necropoli etrusca di Cerveteri
@@ -42,7 +44,7 @@ Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tan
 
 L'importanza del sacro nella società etrusca è, almeno nella prospettiva delle fonti letterarie greche e latine, assoluta. Livio sottolineava la religiosità di quel popolo, che «eccelleva nell'arte di coltivare le pratiche cultuali» (Liv., v, I, 6). I Romani stessi, d'altronde, si ritenevano eredi di molti dei rituali da esso praticati, comprese operazioni decisive, come la fondazione delle città [2].«Poiché tutto riferiscono al dio, gli Etruschi ritengono non che le cose abbiano un senso in quanto avvengono, ma che avvengano per portare un significato». Questo giudizio assai noto di Seneca (N.Q. II, 32,2) illustra bene l'atteggiamento dell'uomo etrusco nei confronti del mondo: un mondo puntualmente e per ogni dove segnato da cratofanie e ierofanie, che debbono essere accuratamente investigate, classificate, interpretate ed espiate. Queste operazioni venivano svolte dall’aruspice. La classica divisione operata da Cicerone nella letteratura religiosa degli Etruschi prevede come è noto una tripartizione in Libri haruspicini, fulgurales e rituales ai quali l’aruspice faceva riferimento. Queste raccolte trattano «monograficamente» delle tecniche di comunicazione con la divinità tramite la divinazione per le quali gli Etruschi erano particolarmente celebrati: la lettura delle viscere delle vittime, l'interpretazione dei fulmini e il volo degli uccelli.
 
-[2] [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
+[2]: [Bianchi U., Le civiltá del mediterraneo e il sacro, Jaca Book-Massimo, 1992](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Bibliografia/Le%20civiltà%20del%20Mediterraneo%20e%20il%20sacro%20(1).pdf)
 
 ### 1.2.2. Modello cosmologico
 
