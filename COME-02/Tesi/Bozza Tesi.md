@@ -1,4 +1,4 @@
-Contemplatio, Templum
+"Contemplatio, Templum"
 ==========================
 
 
@@ -8,15 +8,14 @@ Lo spazio come parametro integrato nel pensiero compositivo
 
 ### Gabriela Krassimirova Velitchkova - 2020
 
-
+//////////////////////////
 
 Indice
 ==========================
 
 
 Abstract
-==========================
-
+--------------------------
 
 
 1.Lo spazio degli etruschi
@@ -33,7 +32,6 @@ Abstract
 ### 1.2.1. L'etrusca disciplina
 ### 1.2.2. Modello cosmologico
 ### 1.2.3. Rito di fondazione
-
 
 
 2.Le suggestioni che dagli etruschi portano a “Contemplatio,Templum”
@@ -58,7 +56,6 @@ Abstract
 ### 2.3.2. Consapevolezza della propria posizione d'ascolto per facilitare l'immersione nella narrazione
 
 
-
 3.Partiture
 ==========================
 3.1 Legenda
@@ -69,22 +66,18 @@ Abstract
 --------------------------
 
 
-
 4.Conclusioni
 ==========================
-
-
 
 ### Appendice
 ### a. Posizione dell'ascoltatore
 ### b. Tecniche di esecuzione e registrazioni
 
 
-
 Bibliografia
 ==========================
 
-
+//////////////////////////
 
 Abstract
 --------------------------
@@ -115,7 +108,7 @@ Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà ro
 
 ### 1.1.3. La necropoli etrusca di Cerveteri
 
-Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tanto che ogni gesto quotidiano poteva essere descritto come processo rituale. Questi elementi peculiari sono evidenti nell’architettura della necropoli etrusca della Banditaccia di Cerveteri e le sue zone circostanti. É estremamente immediato notare come ogni strada o monumento sono stati pensati in quell'esatto posto e direzione per un motivo.
+Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tanto che ogni gesto quotidiano poteva essere descritto come processo rituale. Questi elementi peculiari sono evidenti nell’architettura della necropoli etrusca della Banditaccia di Cerveteri e le sue zone circostanti. É estremamente immediato notare come ogni strada o monumento sono stati pensati in quell'esatto posto e direzione per un motivo.//// parte mancante
 
 
 ### 1.2. Come si orientavano gli etruschi
@@ -133,7 +126,8 @@ L'importanza del sacro nella società etrusca è, almeno nella prospettiva delle
 ### 1.2.2. Modello cosmologico
 
 Gli etruschi dividevano lo “spazio dei segni divini”, cioè il cielo e la terra, in “sedici regioni di influenza”, otto positive e otto negative. Questa suddivisione dello spazio era di enorme importanza per leggere correttamente i segnali del cielo, in special modo la direzione dalla quale provenivano le folgori celesti, evento che opportunamente letto secondo le regole magiche permetteva di capire gli eventi futuri. Molti autori latini (Cicerone, Plinio il Vecchio, Marziano Capella, Servio) ci hanno tramandato il modo in cui gli Etruschi tracciavano le varie regioni del cielo; la trattazione più completa la troviamo nella Naturalis Historia di Plinio:
-“A tale scopo [per determinare la provenienza del fulmine] gli Etruschi divisero il cielo in sedici parti […]. La prima zona è dal settentrione all’alba equinoziale [cioè da nord a est], la seconda sino al mezzogiorno [da est a sud], la terza sino al tramonto equinoziale [cioè da sud a ovest], la quarta occupa il restante spazio fra il tramonto e il settentrione [da ovest a nord]. Hanno poi diviso ciascuna di queste zone in quattro parti, e dissero di sinistra le otto regioni orientali, di destra quelle occidentali. Tra di esse sono particolarmente di malaugurio quelle che fiancheggiano il settentrione da ponente [cioè il quadrante nord-ovest]” (Nat., 2, 143).”
+
+*“A tale scopo [per determinare la provenienza del fulmine] gli Etruschi divisero il cielo in sedici parti […]. La prima zona è dal settentrione all’alba equinoziale [cioè da nord a est], la seconda sino al mezzogiorno [da est a sud], la terza sino al tramonto equinoziale [cioè da sud a ovest], la quarta occupa il restante spazio fra il tramonto e il settentrione [da ovest a nord]. Hanno poi diviso ciascuna di queste zone in quattro parti, e dissero di sinistra le otto regioni orientali, di destra quelle occidentali. Tra di esse sono particolarmente di malaugurio quelle che fiancheggiano il settentrione da ponente [cioè il quadrante nord-ovest]” (Nat., 2, 143).”*
 
 ![Alt text](https://github.com/SMERM/BN-Velitchkova/blob/master/COME-02/Tesi/Immagini/parsanticapostica.gif "Fig. x - Suddivisione del cielo con assegnazioni alle divinitá.")
 
@@ -148,7 +142,7 @@ L’esigenza di un orientamento cosmico per interpretare le volontá divine, tro
 
 ### 1.2.3. Rito di fondazione
 
-L'azione rituale della fondazione dell'urbe, aveva la funzione di trasferire l'ordine generale del cielo in un luogo particolare, avente al centro l'àugure: ciò accadeva quando il gran tempio del cielo, dopo essere stato concentrato nella forma ideale dello schema (fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa), veniva proiettato per mezzo della forma rituale, nel tratto di terreno antistante l'àugure.
+L'azione rituale della fondazione dell'urbe, aveva la funzione di trasferire l'ordine generale del cielo in un luogo particolare, avente al centro l'àugure: ciò accadeva quando il gran tempio del cielo, dopo essere stato concentrato nella forma ideale dello schema (*fig. x - Modellizzazione del sistema proiettivo delle figure dei tre templa*), veniva proiettato per mezzo della forma rituale, nel tratto di terreno antistante l'àugure.
 
 Di seguito viene esposto il procedimento della quadratura del cielo in terra:
 
