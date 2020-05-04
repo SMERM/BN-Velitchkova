@@ -108,7 +108,8 @@ Ebbe inoltre la capacità di influenzare in maniera significativa la civiltà ro
 
 ### 1.1.3. La necropoli etrusca di Cerveteri
 
-Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tanto che ogni gesto quotidiano poteva essere descritto come processo rituale. Questi elementi peculiari sono evidenti nell’architettura della necropoli etrusca della Banditaccia di Cerveteri e le sue zone circostanti. É estremamente immediato notare come ogni strada o monumento sono stati pensati in quell'esatto posto e direzione per un motivo.//// parte mancante
+Gli etruschi erano un popolo metodico, estremamente rigoroso in ogni azione, tanto che ogni gesto quotidiano poteva essere descritto come processo rituale. Questi elementi peculiari sono evidenti nell’architettura della necropoli etrusca della Banditaccia di Cerveteri e delle sue zone circostanti. Aver trascorso molto tempo a contatto con questo territorio,  ha stimolato in me l’esigenza di ricercare quale fosse il rapporto di questo popolo con la musica. Durante l’analisi delle suggestioni pre-compositive (cap.2), il sito archeologico sopracitato sará il contesto ambientale degli esempi di esperienze dirette di musicisti che vi sono entrati a contatto.
+
 
 
 ### 1.2. Come si orientavano gli etruschi
