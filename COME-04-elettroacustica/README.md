@@ -1,4 +1,4 @@
-Corso di Elettroacustica I BN 2019/2020 - M. Federico Scalas
+Corso di "Elettroacustica", I BN 2019/2020 - M. Federico Scalas
 ========
 
 <img src="https://github.com/SMERM/BN-Velitchkova/blob/master/Programma%20di%20studi/intestazione.jpeg" height="100">
@@ -7,7 +7,7 @@ Corso di Elettroacustica I BN 2019/2020 - M. Federico Scalas
 
 DATA ESAME
 -----
-27/07/2020
+27/07/2020 
 
 VOTO
 -----
