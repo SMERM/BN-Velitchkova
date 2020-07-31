@@ -1,0 +1,11 @@
+COLOR PALETTE (HEX)
+
+/Cluster_ONE
+
+-002A4AFF
+-17607DFF
+-FFF1CEFF
+-FF9311FF
+-D64700FF
+
+www.maxfordummies.com

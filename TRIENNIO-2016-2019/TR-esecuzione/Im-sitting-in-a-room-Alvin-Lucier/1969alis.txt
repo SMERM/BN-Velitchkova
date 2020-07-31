@@ -1,0 +1,1 @@
+open thispatcherinclude "C:/Users/gabri/OneDrive/Desktop/MaxforDummies/Alvin Lucier - I Am Sitting In A Room.wav"include C:/Users/gabri/OneDrive/Desktop/MaxforDummies/m4dsitting.png
