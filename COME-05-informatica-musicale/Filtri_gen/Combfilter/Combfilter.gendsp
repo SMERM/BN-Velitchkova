@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 97.0, 85.0, 867.0, 601.0 ],
+		"rect" : [ 34.0, 77.0, 1298.0, 617.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -89,7 +89,7 @@
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"combfilter\";\r\n\r\ncf01 = Combfilter (in1, 3, in2, in3, in4, in5);\r\ncf02 = Combfilter (in1, 5, in2, in3, in4, in5);\r\ncf03 = Combfilter (in1, 7, in2, in3, in4, in5);\r\ncf04 = Combfilter (in1, 11, in2, in3, in4, in5);\r\ncf05 = Combfilter (in1, 13, in2, in3, in4, in5);\r\ncf06 = Combfilter (in1, 17, in2, in3, in4, in5);\r\ncf07 = Combfilter (in1, 19, in2, in3, in4, in5);\r\ncf08 = Combfilter (in1, 23, in2, in3, in4, in5);\r\ncf09 = Combfilter (in1, 29, in2, in3, in4, in5);\r\ncf10 = Combfilter (in1, 31, in2, in3, in4, in5);\r\ncf11 = Combfilter (in1, 37, in2, in3, in4, in5);\r\ncf12 = Combfilter (in1, 41, in2, in3, in4, in5);\r\ncf13 = Combfilter (in1, 43, in2, in3, in4, in5);\r\ncf14 = Combfilter (in1, 47, in2, in3, in4, in5);\r\ncf15 = Combfilter (in1, 53, in2, in3, in4, in5);\r\ncf16 = Combfilter (in1, 59, in2, in3, in4, in5);\r\ncf17 = Combfilter (in1, 61, in2, in3, in4, in5);\r\ncf18 = Combfilter (in1, 67, in2, in3, in4, in5);\r\ncf19 = Combfilter (in1, 71, in2, in3, in4, in5);\r\ncf20 = Combfilter (in1, 73, in2, in3, in4, in5);\r\ncf21 = Combfilter (in1, 79, in2, in3, in4, in5);\r\ncf22 = Combfilter (in1, 83, in2, in3, in4, in5);\r\ncf23 = Combfilter (in1, 89, in2, in3, in4, in5);\r\ncf24 = Combfilter (in1, 97, in2, in3, in4, in5);\r\ncf25 = Combfilter (in1, 101, in2, in3, in4, in5);\r\ncf26 = Combfilter (in1, 103, in2, in3, in4, in5);\r\ncf27 = Combfilter (in1, 107, in2, in3, in4, in5);\r\ncf28 = Combfilter (in1, 109, in2, in3, in4, in5);\r\ncf29 = Combfilter (in1, 113, in2, in3, in4, in5);\r\ncf30 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n\r\ncfn1 = cf01 + cf02 + cf03 + cf04 + cf05 + cf06 + cf07 + cf08 + cf09 + cf10;\r\ncfn2 = cf11 + cf12 + cf13 + cf14 + cf15 + cf16 + cf17 + cf18 + cf19 + cf20;\r\ncfn3 = cf21 + cf22 + cf23 + cf24 + cf25 + cf26 + cf27 + cf28 + cf29 + cf30;\r\ncfnx = cfn1 + cfn2 + cfn3;\r\n\r\nout = cfnx;",
+					"code" : "require \"combfilter\";\r\n\r\n\r\ncf01 = Combfilter (in1, 3, in2, in3, in4, in5); //sig, ms, T60, lpcut, lpg, allcut\r\ncf02 = Combfilter (in1, 5, in2, in3, in4, in5);\r\ncf03 = Combfilter (in1, 7, in2, in3, in4, in5);\r\ncf04 = Combfilter (in1, 11, in2, in3, in4, in5);\r\ncf05 = Combfilter (in1, 13, in2, in3, in4, in5);\r\ncf06 = Combfilter (in1, 17, in2, in3, in4, in5);\r\ncf07 = Combfilter (in1, 19, in2, in3, in4, in5);\r\ncf08 = Combfilter (in1, 23, in2, in3, in4, in5);\r\ncf09 = Combfilter (in1, 29, in2, in3, in4, in5);\r\ncf10 = Combfilter (in1, 31, in2, in3, in4, in5);\r\ncf11 = Combfilter (in1, 37, in2, in3, in4, in5);\r\ncf12 = Combfilter (in1, 41, in2, in3, in4, in5);\r\ncf13 = Combfilter (in1, 43, in2, in3, in4, in5);\r\ncf14 = Combfilter (in1, 47, in2, in3, in4, in5);\r\ncf15 = Combfilter (in1, 53, in2, in3, in4, in5);\r\ncf16 = Combfilter (in1, 59, in2, in3, in4, in5);\r\ncf17 = Combfilter (in1, 61, in2, in3, in4, in5);\r\ncf18 = Combfilter (in1, 67, in2, in3, in4, in5);\r\ncf19 = Combfilter (in1, 71, in2, in3, in4, in5);\r\ncf20 = Combfilter (in1, 73, in2, in3, in4, in5);\r\ncf21 = Combfilter (in1, 79, in2, in3, in4, in5);\r\ncf22 = Combfilter (in1, 83, in2, in3, in4, in5);\r\ncf23 = Combfilter (in1, 89, in2, in3, in4, in5);\r\ncf24 = Combfilter (in1, 97, in2, in3, in4, in5);\r\ncf25 = Combfilter (in1, 101, in2, in3, in4, in5);\r\ncf26 = Combfilter (in1, 103, in2, in3, in4, in5);\r\ncf27 = Combfilter (in1, 107, in2, in3, in4, in5);\r\ncf28 = Combfilter (in1, 109, in2, in3, in4, in5);\r\ncf29 = Combfilter (in1, 113, in2, in3, in4, in5);\r\ncf30 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n\r\ncfn1 = cf01 + cf02 + cf03 + cf04 + cf05 + cf06 + cf07 + cf08 + cf09 + cf10;\r\ncfn2 = cf11 + cf12 + cf13 + cf14 + cf15 + cf16 + cf17 + cf18 + cf19 + cf20;\r\ncfn3 = cf21 + cf22 + cf23 + cf24 + cf25 + cf26 + cf27 + cf28 + cf29 + cf30;\r\ncfnx = cfn1 + cfn2 + cfn3;\r\n\r\nout = cfnx;",
 					"fontface" : 0,
 					"fontname" : "Lucida Console",
 					"fontsize" : 12.0,
@@ -169,8 +169,7 @@
 				}
 
 			}
- ],
-		"autosave" : 0
+ ]
 	}
 
 }
