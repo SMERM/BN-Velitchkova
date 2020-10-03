@@ -1,0 +1,240 @@
+// ---------------------------------
+// LIBRERIA FILTRI 
+// per CODEBOX, in GEN di Max Msp
+// ---------------------------------
+
+
+// ---------------------------------
+// ISTRUZIONI:
+// per richiamare una libreria .genexpr
+// all'interno di una patch di Max Msp:
+// bisogna creare un oggetto gen e creare al suo interno
+// un blocco Codebox.
+// all'interno del blocco Codebox bisogna richiamare 
+// la libreria che ci interessa.
+//
+// Dentro Codebox:
+// require "nomelibreria.genexpr" richiama nella patch 
+// di Codebox la libreria interessata da utilizzare.
+// 
+// Per richiamare gli oggetti della libreria:
+// bisogna definire in Codebox una variabile che contiene
+// al suo interno il nome dell'oggetto richiamato,
+// seguito dai numeri che definiscono i valori
+// che vengono utilizzati dall'oggetto scelto della 
+// libreria, ad esempio,
+// in Codebox:
+// variabile = nomeoggettodellalibreria(100, 20, 100);
+//
+// mentre dentro al file .genexpr
+// nomeoggettodellalibreria(valcodice1, valcodice2 valcodice3)
+// {
+// codice_e_relative_variabili = valcodice1*2;
+// variabile_2 = valcodice2*valcodice1;
+// ecc. ecc.
+// e poi per definire l'out dal codice bisogna scrivere:
+// return variabile_di_uscita;
+// }
+// ---------------------------------
+
+
+// ---------------------------------
+// 				LIBRERIA:
+// ---------------------------------
+
+
+// ---------------------------------
+// ALLPASS FILTER
+// ---------------------------------
+
+passall(sig, delTime, gain)
+
+{
+Delay zeta(samplerate);
+Xn = sig;
+deltime = delTime*(samplerate/1000.);
+g = clamp(gain, 0., 0.999);
+menog = -1*g;
+
+delay1 = zeta.read(deltime);
+feedback = delay1*menog;
+somma1 = feedback+Xn;
+mul1 = somma1*g;
+
+Yn = delay1+mul1;
+zeta.write(somma1);
+
+	return Yn;
+}
+
+// ---------------------------------
+// ALLPASS FILTER in SAMPLES
+// ---------------------------------
+
+passallsamps(sig, delTime, gain)
+
+{
+Delay zeta(samplerate);
+Xn = sig;
+
+g = clamp(gain, 0., 0.999);
+menog = -1*g;
+
+delay1 = zeta.read(delTime);
+feedback = delay1*menog;
+somma1 = feedback+Xn;
+mul1 = somma1*g;
+
+Yn = delay1+mul1;
+zeta.write(somma1);
+
+	return Yn;
+}
+
+// ---------------------------------
+// FEEDBACK COMB FILTER
+// ---------------------------------
+
+feedbackcomb(sig, delT, gain)
+
+{
+Delay del(samplerate);
+deltime = delT * (samplerate/1000);
+
+dlettura = del.read(deltime);
+g = clamp(gain, 0., 0.999);//limita da 0 a 0.999
+fb = dlettura * g;
+yn = sig + fb; 
+
+del.write(yn);
+  
+	return yn;
+}
+
+
+// ---------------------------------
+// LOWPASS COMB FILTER
+// ---------------------------------
+
+lowpasscomb(signal, delay, g, fc, Xn_mol)
+
+{
+Delay zmm(samplerate);
+History zmuno(0);
+
+Xn= signal*Xn_mol;
+delTime= delay*(samplerate/1000);
+g= clamp(g, 0., 0.999);
+fc= fc;
+
+	//COMB
+zmmDel = zmm.read(delTime);
+zmmG = zmmDel*g;
+
+	//LP
+omega = (twopi*fc)/samplerate;
+cosw = cos(omega);
+cosqw = cosw*cosw;
+
+alpha = cosw-1+sqrt(cosqw-4*(cosw)+3);
+unoMenoAlpha = 1-alpha;
+
+mol1= zmmG*alpha; 
+del= zmuno*unoMenoAlpha;
+LP= mol1+del;
+
+zmuno2= fixdenorm(LP); 
+zmuno= zmuno2;
+
+	//COMB OUT
+Yn= Xn+LP;
+
+zmm.write(Yn);
+
+	return Yn;
+}
+
+// ---------------------------------
+// LOWPASS COMB FILTER in SAMPLES
+// ---------------------------------
+
+lowpasscombsamps(signal, samples, g, fc, Xn_mol)
+
+{
+Delay zmm(samplerate);
+History zmuno(0);
+
+Xn= signal*Xn_mol;
+
+g= clamp(g, 0., 0.999);
+fc= fc;
+
+	//COMB
+zmmDel = zmm.read(samples);
+zmmG = zmmDel*g;
+
+	//LP
+omega = (twopi*fc)/samplerate;
+cosw = cos(omega);
+cosqw = cosw*cosw;
+
+alpha = cosw-1+sqrt(cosqw-4*(cosw)+3);
+unoMenoAlpha = 1-alpha;
+
+mol1= zmmG*alpha; 
+del= zmuno*unoMenoAlpha;
+LP= mol1+del;
+
+zmuno2= fixdenorm(LP); 
+zmuno= zmuno2;
+
+	//COMB OUT
+Yn= Xn+LP;
+
+zmm.write(Yn);
+
+	return Yn;
+}
+
+
+// ---------------------------------
+// LOWPASS ONEPOLE FILTER
+// ---------------------------------
+
+lowpassonepole(segnalein, frequenzataglio)
+
+{
+// singolo campione di ritardo
+History ritardouncampione(0);
+
+// -------------------------------------
+// CONVERSIONE 0-1 a taglio IN FREQUENZA
+// frequenza in valori 
+// tra 0. e 1. compresi dalla retroazione
+// per determinare il taglio in valori di frequenza
+// conversione basata sul samplerate
+conversioneduepi = frequenzataglio*twopi/samplerate;
+cosenoconversione = cos(conversioneduepi);
+cosq = cosenoconversione*cosenoconversione;
+
+// gain iniezione segnale & gain retroazione
+// determinati in frequenza
+gainsegnale = cosenoconversione-1+sqrt(cosq-4*cosenoconversione+3);
+gainretroazione = 1-gainsegnale;
+
+// -------------------------------------
+// FILTRO IIR(ONEPOLE) LOWPASS
+guadagnoignezione = segnalein*gainsegnale;
+uscitafeedback = ritardouncampione*gainretroazione;
+sommafeedbackesegnale = guadagnoignezione+uscitafeedback;
+
+	return sommafeedbackesegnale;
+
+// -------------------------------------
+// FIXEDNORM in USCITA
+// cancella i numeri residui molto molto
+// piccoli per non occupare spazio di memoria
+		//ritardouncampione_copia = fixdenorm(sommafeedbackesegnale);
+// lo rimetto nella stessa variabile
+		//ritardouncampione = ritardouncampione_copia;	
+}
