@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 244.0, 108.0, 753.0, 324.0 ],
+		"rect" : [ 37.0, 0.0, 1044.0, 708.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,11 +40,48 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-11",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 707.0, 548.0, 35.0, 22.0 ],
+					"text" : "out 5"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-3",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 375.5, 548.0, 35.0, 22.0 ],
+					"text" : "out 3"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"fontname" : "Arial",
+					"fontsize" : 12.0,
+					"id" : "obj-9",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 541.0, 548.0, 35.0, 22.0 ],
+					"text" : "out 4"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-10",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 44.0, 600.0, 35.0, 22.0 ],
+					"patching_rect" : [ 44.0, 548.0, 35.0, 22.0 ],
 					"text" : "out 1"
 				}
 
@@ -56,7 +93,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 648.0, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 707.0, 28.0, 28.0, 22.0 ],
 					"text" : "in 6"
 				}
 
@@ -69,7 +106,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 648.0, 590.0, 35.0, 22.0 ],
+					"patching_rect" : [ 209.75, 548.0, 35.0, 22.0 ],
 					"text" : "out 2"
 				}
 
@@ -81,7 +118,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 527.200000000000045, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 574.600000000000023, 28.0, 28.0, 22.0 ],
 					"text" : "in 5"
 				}
 
@@ -93,7 +130,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 285.600000000000023, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 309.199999999999989, 28.0, 28.0, 22.0 ],
 					"text" : "in 3"
 				}
 
@@ -105,23 +142,23 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 406.399999999999977, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 441.800000000000011, 28.0, 28.0, 22.0 ],
 					"text" : "in 4"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"Combfilter\";\r\n\r\n\r\ncf01 = Combfilter (in1, 3, in2, in3, in4, in5); //sig, ms, T60, lpcut, lpg, allcut\r\ncf02 = Combfilter (in1, 5, in2, in3, in4, in5);\r\ncf03 = Combfilter (in1, 7, in2, in3, in4, in5);\r\ncf04 = Combfilter (in1, 11, in2, in3, in4, in5);\r\ncf05 = Combfilter (in1, 13, in2, in3, in4, in5);\r\ncf06 = Combfilter (in1, 17, in2, in3, in4, in5);\r\ncf07 = Combfilter (in1, 19, in2, in3, in4, in5);\r\ncf08 = Combfilter (in1, 23, in2, in3, in4, in5);\r\ncf09 = Combfilter (in1, 29, in2, in3, in4, in5);\r\ncf10 = Combfilter (in1, 31, in2, in3, in4, in5);\r\ncf11 = Combfilter (in1, 37, in2, in3, in4, in5);\r\ncf12 = Combfilter (in1, 41, in2, in3, in4, in5);\r\ncf13 = Combfilter (in1, 43, in2, in3, in4, in5);\r\ncf14 = Combfilter (in1, 47, in2, in3, in4, in5);\r\ncf15 = Combfilter (in1, 53, in2, in3, in4, in5);\r\ncf16 = Combfilter (in1, 59, in2, in3, in4, in5);\r\ncf17 = Combfilter (in1, 61, in2, in3, in4, in5);\r\ncf18 = Combfilter (in1, 67, in2, in3, in4, in5);\r\ncf19 = Combfilter (in1, 71, in2, in3, in4, in5);\r\ncf20 = Combfilter (in1, 73, in2, in3, in4, in5);\r\ncf21 = Combfilter (in1, 79, in2, in3, in4, in5);\r\ncf22 = Combfilter (in1, 83, in2, in3, in4, in5);\r\ncf23 = Combfilter (in1, 89, in2, in3, in4, in5);\r\ncf24 = Combfilter (in1, 97, in2, in3, in4, in5);\r\ncf25 = Combfilter (in1, 101, in2, in3, in4, in5);\r\ncf26 = Combfilter (in1, 103, in2, in3, in4, in5);\r\ncf27 = Combfilter (in1, 107, in2, in3, in4, in5);\r\ncf28 = Combfilter (in1, 109, in2, in3, in4, in5);\r\ncf29 = Combfilter (in1, 113, in2, in3, in4, in5);\r\ncf30 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n\r\ncfn1 = cf01 + cf02 + cf03 + cf04 + cf05 + cf06 + cf07 + cf08 + cf09 + cf10;\r\ncfn2 = cf11 + cf12 + cf13 + cf14 + cf15 + cf16 + cf17 + cf18 + cf19 + cf20;\r\ncfn3 = cf21 + cf22 + cf23 + cf24 + cf25 + cf26 + cf27 + cf28 + cf29 + cf30;\r\ncfnx = cfn1 + cfn2 + cfn3;\r\n\r\nsig_out1 = in1 * (1./in6);\r\nsig_out2 = cfnx * (1./sqrt(in6));\r\n\r\nout1 = sig_out1;\r\nout2 = sig_out2;",
+					"code" : "require \"Combfilter\";\r\n\r\n\r\n//RIVERBERO GLOBALE\r\n\r\nGcf1 = Combfilter (in1, 37, in2, in3, in4, in5);//sig, ms, T60, lpcut, lpg, allcut\r\n\r\nGcf2 = Combfilter (in1, 43, in2, in3, in4, in5);\r\n\r\nGcf3 = Combfilter (in1, 53, in2, in3, in4, in5);\r\n\r\nGcf4 = Combfilter (in1, 61, in2, in3, in4, in5);\r\n\r\nGcf5 = Combfilter (in1, 71, in2, in3, in4, in5);\r\n\r\nGcf6 = Combfilter (in1, 79, in2, in3, in4, in5);\r\n\r\nGcf7 = Combfilter (in1, 89, in2, in3, in4, in5);\r\n\r\nGcf8 = Combfilter (in1, 101, in2, in3, in4, in5);\r\n\r\nGcf9 = Combfilter (in1, 107, in2, in3, in4, in5);\r\n\r\nGcf10 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n//RIVERBERO LOCALE\r\n\r\nLcf1 = Combfilter (in1, 37, in2, in3, in4, in5);//sig, ms, T60, lpcut, lpg, allcut\r\n\r\nLcf2 = Combfilter (in1, 43, in2, in3, in4, in5);\r\n\r\nLcf3 = Combfilter (in1, 53, in2, in3, in4, in5);\r\n\r\nLcf4 = Combfilter (in1, 61, in2, in3, in4, in5);\r\n\r\nLcf5 = Combfilter (in1, 71, in2, in3, in4, in5);\r\n\r\nLcf6 = Combfilter (in1, 79, in2, in3, in4, in5);\r\n\r\nLcf7 = Combfilter (in1, 89, in2, in3, in4, in5);\r\n\r\nLcf8 = Combfilter (in1, 101, in2, in3, in4, in5);\r\n\r\nLcf9 = Combfilter (in1, 107, in2, in3, in4, in5);\r\n\r\nLcf10 = Combfilter (in1, 127, in2, in3, in4, in5);\r\n\r\n\r\nGcfL = Gcf1+Gcf3+Gcf5+Gcf7+Gcf9;\r\nGcfR = Gcf2+Gcf4+Gcf6+Gcf8+Gcf10;\r\n\r\nLcfL = Lcf1+Lcf3+Lcf5+Lcf7+Lcf9;\r\nLcfR = Lcf2+Lcf4+Lcf6+Lcf8+Lcf10;\r\n\r\n\r\nLdiretto = in1 * (1./in6);\r\nLglobale = GcfL * (1./sqrt(in6));\r\nLlocale  = LcfL * (1. - (1./in6));\r\n\r\nRdiretto = in1 * (1./in6);\r\nRglobale = GcfR * (1./sqrt(in6));\r\nRlocale  = LcfR * (1. - (1./in6));\r\n\r\nout1 = Llocale + Lglobale + Ldiretto;\r\nout2 = Rlocale + Rglobale + Rdiretto;\r\n\r\nout3 = Ldiretto;\r\nout4 = Lglobale;\r\nout5 = Llocale;",
 					"fontface" : 0,
 					"fontname" : "Lucida Console",
 					"fontsize" : 12.0,
 					"id" : "obj-5",
 					"maxclass" : "codebox",
 					"numinlets" : 6,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 44.0, 53.0, 623.0, 531.0 ]
+					"numoutlets" : 5,
+					"outlettype" : [ "", "", "", "", "" ],
+					"patching_rect" : [ 44.0, 53.0, 682.0, 487.0 ]
 				}
 
 			}
@@ -144,7 +181,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 164.799999999999955, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 176.599999999999994, 28.0, 28.0, 22.0 ],
 					"text" : "in 2"
 				}
 
@@ -180,8 +217,29 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-11", 0 ],
+					"source" : [ "obj-5", 4 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-25", 0 ],
 					"source" : [ "obj-5", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-5", 2 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-9", 0 ],
+					"source" : [ "obj-5", 3 ]
 				}
 
 			}
