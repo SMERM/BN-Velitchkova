@@ -42,6 +42,22 @@
         - Scorrimento pagine (algoritmo, pedale)
 
 --------------
+## Moodboard
+
+- Cos'é?
+- A cosa serve?
+- Perché in musica?
+
+--------------
+## Metodi di trascrizione dell'astratto
+  (codici elementari, comuni; simbolici, grafici, testuali)
+
+### Associazioni tra testo, grafica, musica:
+
+- razionalizzazione del pensiero musicale sotto forma di descrizione testuale/grafica
+-
+
+--------------
 ## Libretto/Grafizzazione
 
 - esclusione di tutte le caratteristiche artistiche appartenenti alla pittura;
