@@ -20,6 +20,10 @@
 
   Il segno é sempre significante[005,pag.].
 
+**note:**
+
+- appunti lezioni analisi compositiva S.Bracci
+
 --------------
 # Strumenti
 
@@ -64,6 +68,11 @@
 - esclusione di tutte le caratteristiche artistiche appartenenti alla pittura;
 - *grafizzazione* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
 - *testo* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
+
+--------------
+# Performance
+
+
 
 --------------
 # Bibliografia
