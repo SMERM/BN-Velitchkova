@@ -81,6 +81,8 @@ Vocabolario:
 ## Gesto
 ## Ritmo
 ## Spazio
+## Scena
+## Layer
 ## Figura
 ## Sfondo
 ## Silenzio
