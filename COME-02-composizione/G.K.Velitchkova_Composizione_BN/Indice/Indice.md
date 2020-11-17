@@ -52,7 +52,7 @@
 ## Metodi di trascrizione dell'astratto
   (codici elementari, comuni; simbolici, grafici, testuali)
 
-### Associazioni tra testo, grafica, musica:
+### Associazioni tra musica, testo e grafica
 
 - razionalizzazione del pensiero musicale sotto forma di descrizione testuale/grafica
 -
