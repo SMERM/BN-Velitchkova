@@ -27,6 +27,11 @@
   - Clarinetti
   - Live electronics
 
+**note:**
+
+- [chiedere partitura a strumentisti]
+- [cercare manuali di scrittura relativi agli strumenti (tecniche tradizionali, estese)]
+
 --------------
 ## Partitura esecutiva
 
@@ -39,7 +44,7 @@
 --------------
 ## Libretto/Grafizzazione
 
-- esclusione di tutte le caratteristiche appartenenti alla pittura;
+- esclusione di tutte le caratteristiche artistiche appartenenti alla pittura;
 - *grafizzazione* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
 - *testo* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
 
@@ -51,6 +56,17 @@
 [003]- Opera aperta. Forma e indeterminazione nelle poetiche contemporanee, U.Eco, Bompiani, 2013;
 [004]- Punto linea superficie, V.Kandinskij, Adelphi, 1968, ed.26;
 [005]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
+
+--------------
+# Accetto:
+
+-
+
+--------------
+# Non accetto:
+
+- diffusione totalmente acusmatica (spiega le eccezioni)
+- stampa cartacea della partitura esecutiva (spiega il motivo)
 
 --------------
 # Vocabolario
