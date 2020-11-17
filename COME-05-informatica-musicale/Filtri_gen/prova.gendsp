@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "dsp.gen",
-		"rect" : [ 263.0, 222.0, 753.0, 324.0 ],
+		"rect" : [ 42.0, 85.0, 1154.0, 617.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -26,7 +26,7 @@
 		"toptoolbarpinned" : 0,
 		"righttoolbarpinned" : 0,
 		"bottomtoolbarpinned" : 0,
-		"toolbars_unpinned_last_save" : 6,
+		"toolbars_unpinned_last_save" : 4,
 		"tallnewobj" : 0,
 		"boxanimatetime" : 200,
 		"enablehscroll" : 1,
@@ -40,25 +40,13 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-10",
+					"id" : "obj-3",
 					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 44.0, 600.0, 35.0, 22.0 ],
-					"text" : "out 1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Arial",
-					"fontsize" : 12.0,
-					"id" : "obj-25",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 648.0, 590.0, 35.0, 22.0 ],
-					"text" : "out 2"
+					"numinlets" : 0,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 391.0, 19.0, 28.0, 22.0 ],
+					"text" : "in 4"
 				}
 
 			}
@@ -69,23 +57,23 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 648.0, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 283.333333333333371, 19.0, 28.0, 22.0 ],
 					"text" : "in 3"
 				}
 
 			}
 , 			{
 				"box" : 				{
-					"code" : "require \"GKV_Filter_Library\";\r\n\r\n\r\ncf01 = fbcomb_lp_T60 (in1, 200, in2, in3); //sig, ms, T60, lpcut, lpg, allcut\r\ncf02 = fbcomb_lp_T60 (in1, 299, in2, in3);\r\ncf03 = fbcomb_lp_T60 (in1, 999, in2, in3);\r\ncf04 = fbcomb_lp_T60 (in1, 699, in2, in3);\r\ncf05 = fbcomb_lp_T60 (in1, 799, in2, in3);\r\ncf06 = fbcomb_lp_T60 (in1, 599, in2, in3);\r\n\r\ncfnx= cf01+cf02+cf03+cf04+cf05+cf06;\r\n\r\nsig_out1 = cfnx;\r\n\r\n\r\nout1 = sig_out1+in1;",
+					"code" : "require \"GKV_Filter_Library\";\r\n\r\n b= fbcomb_lp_T60 (in1, 60, in2, in3, in4);\r\n b1= fbcomb_lp_T60 (in1, 59, in2, in3, in4);\r\n b2= fbcomb_lp_T60 (in1, 69, in2, in3, in4);\r\n b3= fbcomb_lp_T60 (in1, 189, in2, in3, in4);\r\n b4= fbcomb_lp_T60 (in1, 70, in2, in3, in4);\r\n b5= fbcomb_lp_T60 (in1, 89, in2, in3, in4);\r\n b6= fbcomb_lp_T60 (in1, 100, in2, in3, in4);\r\n\r\n\r\nout= b+b1+b2+b3+b4+b5+b6;",
 					"fontface" : 0,
 					"fontname" : "Lucida Console",
 					"fontsize" : 12.0,
 					"id" : "obj-5",
 					"maxclass" : "codebox",
-					"numinlets" : 3,
+					"numinlets" : 4,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 53.0, 623.0, 531.0 ]
+					"patching_rect" : [ 50.0, 60.0, 521.0, 305.0 ]
 				}
 
 			}
@@ -96,7 +84,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 44.0, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 50.0, 14.0, 28.0, 22.0 ],
 					"text" : "in 1"
 				}
 
@@ -108,8 +96,19 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 346.0, 28.0, 28.0, 22.0 ],
+					"patching_rect" : [ 170.0, 14.0, 28.0, 22.0 ],
 					"text" : "in 2"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-4",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 50.0, 379.0, 35.0, 22.0 ],
+					"text" : "out 1"
 				}
 
 			}
@@ -130,7 +129,14 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
+					"destination" : [ "obj-5", 3 ],
+					"source" : [ "obj-3", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-4", 0 ],
 					"source" : [ "obj-5", 0 ]
 				}
 

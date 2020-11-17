@@ -35,7 +35,7 @@
 onepole (Xn, freqcut)
 {
 History history_1(0);
-omega = (freqcut * twopi) / samplerate;
+omega = ((freqcut * twopi)) / samplerate;
 cosw = cos(omega);
 cosq = cosw * cosw;
 alpha = (cosw - 1.) + (sqrt((cosq - (4. * cosw)) + 3.));
@@ -138,7 +138,7 @@ delay_1.write(feedback + Xn);
 //  4.1
 //=====================================
 
-comb_iir (Xn, ms, T60)
+comb_iir (Xn, ms, gain)
 
 {
 
@@ -146,10 +146,7 @@ Delay delay_1(samplerate);
 
 del_time = ms * (samplerate/1000.);
 
-potenza = ((-3. * (ms / 1000.))) / T60;
-g = pow(10., potenza);
-
-//g = clamp(gain, 0., 0.9999);
+g = clamp(gain, 0., 0.9999);
 
 delay1 = delay_1.read(del_time) * g;
 
@@ -164,7 +161,7 @@ delay_1.write(Yn);
 //  4.2
 //=====================================
 
-comb_fir (Xn, ms, T60)
+comb_fir (Xn, ms, gain)
 
 {
 
@@ -172,8 +169,7 @@ Delay delay_1(samplerate);
 
 del_time = ms * (samplerate/1000.);
 
-potenza = ((-3. * (ms / 1000.))) / T60;
-g = pow(10., potenza);
+g = clamp(gain, 0., 0.9999);
 
 delay1 = delay_1.read(del_time) * g;
 
@@ -183,7 +179,6 @@ delay_1.write(Xn);
     return Yn;
 
 }
-
 
 //=====================================
 //  4.3
@@ -223,21 +218,20 @@ delay_1.write(feedback);
 //=====================================
 //  4.4
 //=====================================
-fbcomb_lp_T60 (Xn, ms, T60, freqcut, gain)
+fbcomb_lp_T60 (Xn, ms, T60, freqcut)
 
 {
 
 Delay delay_1(samplerate);
 Delay delay_2(samplerate);
 Delay delay_3(samplerate);
-Delay delay_4(samplerate);
 History history_1(0);
 
 //COMB
 
 del_time = ms * (samplerate/1000.);
 
-potenza = ((-3. * (ms / 1000.))) / T60;
+potenza = ((-3. * (del_time / 1000.))) / T60;
 g = pow(10., potenza);
 
 delay1 = delay_1.read(del_time) * g;
@@ -256,29 +250,23 @@ mul_1 = (1. - alpha) * history_1;
 
 //ALLPASS1
 
-menog = (-1.) * gain;
+menog = (-1.) * g;
 allpass = (delay_2.read(del_time)) * menog;
 
-  all1 = (delay_2.read(del_time)) + ((allpass + LP) * gain);
+  all1 = (delay_2.read(del_time)) + ((allpass + LP) * g);
 
 //ALLPASS2
 
 allpass2 = (delay_3.read(del_time)) * menog;
 
-  all2 = (delay_3.read(del_time)) + ((allpass2 + all1) * gain);
+  Yn = (delay_3.read(del_time)) + ((allpass2 + all1) * g);
 
-  //ALLPASS3
 
-  allpass3 = (delay_4.read(del_time)) * menog;
-
-    Yn = (delay_4.read(del_time)) + ((allpass3 + all2) * gain);
-
-history_1_2 = fixdenorm(LP);
+history_1_2 = fixdenorm(Yn);
 history_1 = history_1_2;
 delay_1.write(feedback);
 delay_2.write(allpass + LP);
-delay_3.write(allpass2 + all1);
-delay_4.write(allpass3 + all2);
+delay_2.write(allpass2 + all1);
     return Yn;
 }
 //=====================================
