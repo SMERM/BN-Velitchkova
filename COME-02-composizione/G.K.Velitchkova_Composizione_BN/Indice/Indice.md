@@ -28,7 +28,7 @@
   - Live electronics
 
 --------------
-## Partitura esucutiva
+## Partitura esecutiva
 
   - Partitura digitale
     - Layout (formato, dimensione, presenta le possibilitá, spiega le scelte)
