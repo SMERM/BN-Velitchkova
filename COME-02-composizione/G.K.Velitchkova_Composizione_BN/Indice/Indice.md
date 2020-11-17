@@ -1,5 +1,5 @@
 # Regole strutturali del testo:
---------------
+
 *Note* [a]
 
 - Le note sono poste a piede pagina
@@ -10,20 +10,23 @@
   - [pag.x] = pagina della citazione
 
 --------------
---------------
 # Indice
+
 --------------
 ## Abstract
+
 --------------
 ## Significato e significante
 
   Il segno é sempre significante[005,pag.].
+
 --------------
 # Strumenti
 
   - Bajan
   - Clarinetti
   - Live electronics
+
 --------------
 ## Partitura esucutiva
 
@@ -32,12 +35,14 @@
       - Proiezione (schermo, tablet)
     - Scansione temporale (cronometro, capitoli, durate)
         - Scorrimento pagine (algoritmo, pedale)
+
 --------------
 ## Libretto/Grafizzazione
 
 - esclusione di tutte le caratteristiche appartenenti alla pittura;
 - *grafizzazione* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
 - *testo* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
+
 --------------
 # Bibliografia
 
@@ -46,6 +51,7 @@
 [003]- Opera aperta. Forma e indeterminazione nelle poetiche contemporanee, U.Eco, Bompiani, 2013;
 [004]- Punto linea superficie, V.Kandinskij, Adelphi, 1968, ed.26;
 [005]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
+
 --------------
 # Vocabolario
 
