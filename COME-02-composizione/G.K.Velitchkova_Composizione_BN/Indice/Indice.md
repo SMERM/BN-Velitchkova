@@ -47,6 +47,7 @@
 - Cos'é?
 - A cosa serve?
 - Perché in musica?
+- Come realizzarla
 
 --------------
 ## Metodi di trascrizione dell'astratto
