@@ -10,7 +10,7 @@
   - [pag.x] = pagina della citazione
   
 --------------
-## Citazioni
+## Citazioni e riflessioni
 
 ### [000]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
 
