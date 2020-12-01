@@ -1,4 +1,4 @@
-# Regole strutturali del testo:
+## Regole strutturali del testo:
 
 *Note* [a]
 
@@ -10,12 +10,21 @@
   - [pag.x] = pagina della citazione
   
 --------------
-# Citazioni
+## Citazioni
 
-- "Appare chiaro che la sostanza dipende dalla forma in maniera tale che essa vive solo grazie alla forma e non puó dire in nessun modo che abbia un'esistenza indipendente" (p.18)
+### [000]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
+
+- **(p.15):** "L'uomo comunica e dialoga anche con se stesso attraverso lunghe e complesse concatenazioni segniche. Ovvero, attraverso testi. Dal momento che l'uomo parla e scrive per testi, per la semiotica non é stato piú il singolo segno, ma solo il testo, nella sua totalitá, ad avere un senso compiuto. A partire dagli anni settanta, non si parla piú di segno: non é piú la singola parola, né la frase isolata da un contesto discorsivo, ma é il testo a costituirsi come il segno linguistico primario."
+
+(totalitá dei parametri, testo come spazio), (estensione della notazione musicale tradizionale per poter includere piú testo. necessitá di nuovi significanti o di nuovi significati? necessitá di nuove tecniche espressive o di nuovi contenuti?)
+
+
+- **(p.18):** "Appare chiaro che la sostanza dipende dalla forma in maniera tale che essa vive solo grazie alla forma e non puó dire in nessun modo che abbia un'esistenza indipendente" 
+
+- 
 
 --------------
-# Bibliografia
+## Bibliografia
 
 [000]- Il paese fertile. Paul Klee e la musica, P.Boulez, Abscondita, 2017;
 [000]- Modernitá liquida, Z.Bauman, laterza & figli, ed.22, 2011;
