@@ -67,7 +67,7 @@ Contrappunto tra impulso e texture.
 
 ## - Scena 4:
 
-Un evento segna la svolta. Il **clarinetto** esprime tutto il contenuto sedimentato. Il **bajan** si risveglia, riesce a coesistere nel presente insieme al **clarinetto**, sostenendolo nella sua espressione. Svanisce il contrasto ricordo-presente. Il **clarinetto** vuole iniziare una nuova **scena x**, ha tensione. 
+Un evento segna la svolta. Il **clarinetto** esprime tutto il contenuto/materiale sedimentato. Il **bajan** si risveglia, riesce a coesistere nel presente insieme al **clarinetto**, sostenendolo nella sua espressione. Svanisce il contrasto ricordo-presente. Il **clarinetto** vuole iniziare una nuova **scena x**, ha tensione risolutiva. L'**elettronica** é comunque presente, ormai é carattere del presente, non piu pesante, ma collaborativa/integrata. 
 
 
 
