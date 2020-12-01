@@ -56,10 +56,12 @@ Contrappunto tra impulso e texture.
 
 - La similitudine relativa alla **scena 2** puó anche essere auto-suggestionata, sia dal **clarinetto** che dal **bajan**.
 
-- L'unico elemento che vuole uscire dalla texture é il **clarinetto**, si sente soffocato. Reagisce con impulsi. Ogni tanto guadagna espressione.
+- L'unico elemento che vuole uscire dalla texture é il **clarinetto**, si sente soffocato. Reagisce con impulsi, acciaccature, trilli. Ogni tanto guadagna espressione.
 
 - Il **bajan** vorrebbe uscirne, ma non sa come fare, dunque passivamente ne fa parte.
 
-- Nella **scena 3** le **percussioni** non ci sono piú, ne rimane solo il ricordo (**live electronics**). Sporadicamente ricompaiono, distruggendo tutto ció che il **clarinetto** aveva concretizzato nel mentre.
+- Nella **scena 3** le **percussioni** non ci sono piú, ne rimane solo il ricordo petulante (**live electronics**). Sporadicamente ricompaiono, distruggendo tutto ció che il **clarinetto** aveva concretizzato nel mentre.
+
+- L'**elettronica** manda in feedback il respiro. 
 
 ______________
