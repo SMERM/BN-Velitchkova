@@ -31,17 +31,17 @@ ______________
 
 ## Forma e regole compositive:
 
-**scena 1:** (bajan, clarinetto)
+**scena 1:** breve (14" < durata < 1'); (bajan, clarinetto)
 
 Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a definire il carattere del respiro affinché si noti il contrasto con la **scena 3**.
 
 
-**scena 2:** (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
+**scena 2:** semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
 
 Interrompe bruscamente la **scena 1** ed apre bruscamente alla **scena 3**. L'evento di contrasto é scaturito dalle **percussioni**. Nasce un contrappunto dal carattere esponenziale tra **clarinetto** e **percussioni**. Questo contrappunto si risolve in feedback (**bajan** e **elettronica** (passaggio alla **scena 3**)).
 
 
-**scena 3:** (bajan, clarinetto, elettronica, percussioni)
+**scena 3:** lunga (5' < durata < 9'); (bajan, clarinetto, elettronica, percussioni)
 
 Contrappunto tra impulso e texture. 
 
@@ -56,7 +56,7 @@ Contrappunto tra impulso e texture.
 
 - La similitudine relativa alla **scena 2** puó anche essere auto-suggestionata, sia dal **clarinetto** che dal **bajan**.
 
-- L'unico elemento che vuole uscire dalla texture é il **clarinetto**, si sente soffocato. Reagisce con impulsi.
+- L'unico elemento che vuole uscire dalla texture é il **clarinetto**, si sente soffocato. Reagisce con impulsi. Ogni tanto guadagna espressione.
 
 - Il **bajan** vorrebbe uscirne, ma non sa come fare, dunque passivamente ne fa parte.
 
