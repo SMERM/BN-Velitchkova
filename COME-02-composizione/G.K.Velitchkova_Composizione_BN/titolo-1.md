@@ -38,7 +38,7 @@ Dal contenuto poco espressivo/informativo. Dura poco, tanto quanto basta a defin
 
 ### - Scena 2: semi-breve (1'20" < durata < 2'); (clarinetto, percussioni, (bajan ed elettronica per passaggio a **scena 3**))
 
-Interrompe bruscamente la **scena 1** ed apre bruscamente alla **scena 3**. L'evento di contrasto é scaturito dalle **percussioni**. Nasce un contrappunto dal carattere esponenziale tra **clarinetto** e **percussioni**. Questo contrappunto si risolve in feedback (**bajan** e **elettronica** (passaggio alla **scena 3**)).
+Interrompe bruscamente la **scena 1** ed apre bruscamente alla **scena 3**. L'evento di contrasto é scaturito dalle **percussioni**, esse sono dinamiche e scomposte. Nasce un contrappunto dal carattere esponenziale tra **clarinetto** e **percussioni**. Questo contrappunto si risolve in feedback (**bajan** e **elettronica** (passaggio alla **scena 3**)).
 
 
 ### - Scena 3: lunga (5' < durata < 9'); (bajan, clarinetto, elettronica, percussioni)
@@ -58,10 +58,17 @@ Contrappunto tra impulso e texture.
 
 - L'unico elemento che vuole uscire dalla texture é il **clarinetto**, si sente soffocato. Reagisce con impulsi, acciaccature, trilli. Ogni tanto guadagna espressione.
 
-- Il **bajan** vorrebbe uscirne, ma non sa come fare, dunque passivamente ne fa parte.
+- Il **bajan** vorrebbe uscire dalla texture, ma non sa come fare, dunque passivamente ne fa parte.
 
-- Nella **scena 3** le **percussioni** non ci sono piú, ne rimane solo il ricordo petulante (**live electronics**). Sporadicamente ricompaiono, distruggendo tutto ció che il **clarinetto** aveva concretizzato nel mentre.
+- Nella **scena 3** le **percussioni** non ci sono quasi piú, ne rimane solo il ricordo petulante (**live electronics**). Ma sporadicamente ricompaiono, distruggendo tutto ció che il **clarinetto** aveva concretizzato nel mentre.
 
 - L'**elettronica** manda in feedback il respiro. 
+
+
+## - Scena 4:
+
+Un evento segna la svolta. Il **clarinetto** esprime tutto il contenuto sedimentato. Il **bajan** si risveglia, riesce a coesistere nel presente insieme al **clarinetto**, sostenendolo nella sua espressione. Svanisce il contrasto ricordo-presente. Il **clarinetto** vuole iniziare una nuova **scena x**, ha tensione. 
+
+
 
 ______________
