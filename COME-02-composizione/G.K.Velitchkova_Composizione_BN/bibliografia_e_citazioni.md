@@ -14,7 +14,7 @@
 
 ### [000]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
 
-- **(p.15):** "L'uomo comunica e dialoga anche con se stesso attraverso lunghe e complesse concatenazioni segniche. Ovvero, attraverso testi. Dal momento che l'uomo parla e scrive per testi, per la semiotica non é stato piú il singolo segno, ma solo il testo, nella sua totalitá, ad avere un senso compiuto. A partire dagli anni settanta, non si parla piú di segno: non é piú la singola parola, né la frase isolata da un contesto discorsivo, ma é il testo a costituirsi come il segno linguistico primario."
+- **(p.15):** "L'uomo comunica e dialoga anche con se stesso attraverso lunghe e complesse concatenazioni segniche. Ovvero, attraverso testi. Dal momento che l'uomo parla e scrive per testi, per la semiotica non é stato piú il singolo segno, ma solo il testo, nella sua totalitá, ad avere un senso compiuto. A partire dagli anni settanta, non si parla piú di segno: non é piú la singola parola, né la frase isolata da un contesto discorsivo, ma é il testo a costituirsi come il segno linguistico primario." (il grano della voce.)
 
 - (totalitá dei parametri, testo come spazio)
 
