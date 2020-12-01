@@ -1,12 +1,31 @@
-**Strumenti:**
+## Strumenti:
 
-- Bajan
+### - Bajan:
 
-- Clarinetto
+**significato/identitá:** respiro
 
-- Percussioni
-
-- Live electronics
+**carattere:** sogno, ricordo
 
 
-**Sorgente:** ricordo di un'esperienza
+### - Clarinetto:
+
+**significato/identitá:** respiro
+
+**carattere:** istante nel presente
+
+
+### - Percussioni: 
+
+**significato/identitá**: antagonista del respiro
+
+**carattere:** fugace, appare sporadicamente. Rappresenta l'istante nel presente. Ha forti legami con il **Live electonic**, ne é la causa.
+
+
+### - Live electronics:
+
+**significato/identitá:** antagonista del respiro
+
+**carattere:** presente, ridondante. E' causato dalle **percussioni**, ma viene richiamato dal **bajan**.
+
+______________
+
