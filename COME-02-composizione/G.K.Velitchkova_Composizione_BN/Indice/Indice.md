@@ -25,18 +25,6 @@
 - appunti lezioni analisi compositiva S.Bracci
 
 --------------
-# Strumenti
-
-  - Bajan
-  - Clarinetti
-  - Live electronics
-
-**note:**
-
-- [chiedere partitura a strumentisti]
-- [cercare manuali di scrittura relativi agli strumenti (tecniche tradizionali, estese)]
-
---------------
 ## Partitura esecutiva
 
   - Partitura digitale
@@ -70,18 +58,35 @@
 - *testo* (come metodo a supporto della "scrittura/rappresentazione/trasmissione" del codice musicale);
 
 --------------
+# Strumenti
+
+  - Bajan
+  - Clarinetti
+  - Live electronics
+
+**note:**
+
+- [chiedere partitura a strumentisti]
+- [cercare manuali di scrittura relativi agli strumenti (tecniche tradizionali, estese)]
+
+--------------
 # Performance
 
+## Ambiente esecutivo
 
+- Dove é possibile eseguire la composizione
+
+##
 
 --------------
 # Bibliografia
 
-[001]- Il paese fertile. Paul Klee e la musica, P.Boulez, Abscondita, 2017;
-[002]- Musica e pittura, A.Schonberg, V.Kandinskij, Abscondita, 2018;
-[003]- Opera aperta. Forma e indeterminazione nelle poetiche contemporanee, U.Eco, Bompiani, 2013;
-[004]- Punto linea superficie, V.Kandinskij, Adelphi, 1968, ed.26;
-[005]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
+[000]- Il paese fertile. Paul Klee e la musica, P.Boulez, Abscondita, 2017;
+[000]- Modernitá liquida, Z.Bauman, laterza & figli, ed.22, 2011;
+[000]- Musica e pittura, A.Schonberg, V.Kandinskij, Abscondita, 2018;
+[000]- Opera aperta. Forma e indeterminazione nelle poetiche contemporanee, U.Eco, Bompiani, 2013;
+[000]- Punto linea superficie, V.Kandinskij, Adelphi, ed.26, 1968;
+[000]- Semiotica. Teoria, metodo, analisi, P.Magli, Marsilio Editori, 2004;
 
 --------------
 # Accetto:
