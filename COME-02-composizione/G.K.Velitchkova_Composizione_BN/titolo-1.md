@@ -50,7 +50,7 @@ Contrappunto tra impulso e texture.
 **texture:** ricordo/sogno, bajan, elettronica. Rappresenta un momento di stasi.
 
 
-- Il respiro del **clarinetto** ha una buona memoria: ogni volta che nel presente nota una similitudine relativa alla **scena 2**, subisce una variazione che lo riporta in uno stato di stasi. 
+- Il respiro del **clarinetto** ha una buona memoria: ogni volta che nel presente nota una similitudine relativa alla **scena 2**, subisce una variazione che lo riporta in uno stato di stasi. Queste simulitudini possono essere: suono segnale, incipit del suono segnale, frammento ritmico.
 
 - Il respiro durante la stasi é delegato al **bajan**. 
 
