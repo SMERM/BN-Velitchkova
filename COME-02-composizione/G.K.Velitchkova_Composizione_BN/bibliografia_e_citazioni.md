@@ -16,12 +16,24 @@
 
 - **(p.15):** "L'uomo comunica e dialoga anche con se stesso attraverso lunghe e complesse concatenazioni segniche. Ovvero, attraverso testi. Dal momento che l'uomo parla e scrive per testi, per la semiotica non é stato piú il singolo segno, ma solo il testo, nella sua totalitá, ad avere un senso compiuto. A partire dagli anni settanta, non si parla piú di segno: non é piú la singola parola, né la frase isolata da un contesto discorsivo, ma é il testo a costituirsi come il segno linguistico primario."
 
-(totalitá dei parametri, testo come spazio), (estensione della notazione musicale tradizionale per poter includere piú testo. necessitá di nuovi significanti o di nuovi significati? necessitá di nuove tecniche espressive o di nuovi contenuti?)
+- (totalitá dei parametri, testo come spazio)
+
+- (estensione della notazione musicale tradizionale per poter includere piú testo. necessitá di nuovi significanti o di nuovi significati? necessitá di nuove tecniche espressive o di nuovi contenuti?)
 
 
 - **(p.18):** "Appare chiaro che la sostanza dipende dalla forma in maniera tale che essa vive solo grazie alla forma e non puó dire in nessun modo che abbia un'esistenza indipendente" 
 
-- 
+- **(p.19):** "La materia, dunque, in sé non é conoscibile né esprimibile, perché conoscerla vuol dire giá organizzarla in categorie concettuali ed esprimerla in qualche lingua. Il che equivale a dire che essa non é piú materia ma é giá sostanza alla quale una lingua ha dato forma. **La sostanza non é che materia messa in forma da qualche lingua**
+
+- (Riesco a guardare allo strumento come materia e non come sostanza?)
+
+- (Posso delegare la generazione della sostanza all'esecutore?)
+
+- (Il compositore genera la forma e l'esecutore, interpretandola, genera sostanza?)
+
+- (La sostanza che un esecutore riesce a generare dipende dall'esperienza tecnica?)
+
+- (Posso/voglio delegare all'esecutore la scelta del significante rispettando la mia espressione estetica del contenuto? di cosa ho bisogno?)
 
 --------------
 ## Bibliografia
